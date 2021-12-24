@@ -1,0 +1,15 @@
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ref\ExemploPOO.dll
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+C:\Users\iguru\OneDrive\workspace-my-projects\C#\DIO - exercícios\dio-desafio-github\programação orientada a objetos em c#\ExemploPOO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
