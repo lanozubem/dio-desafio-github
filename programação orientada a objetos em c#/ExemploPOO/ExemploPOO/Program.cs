@@ -25,10 +25,13 @@
 // a.Nota = 7;
 // a.Apresentar();
 
-// Sobrecarga de métodos
-// Calculadora c = new Calculadora();
-// System.Console.WriteLine(c.Somar(1,2));
+// Sobrecarga de métodos e Interface
+var c = new Calculadora();
+System.Console.WriteLine(c.Somar(10,5));
 // System.Console.WriteLine(c.Somar(1, 2, 3));
+System.Console.WriteLine(c.Dividir(10, 5));
+System.Console.WriteLine(c.Multiplicar(10, 5));
+System.Console.WriteLine(c.Subtrair(10, 5));
 
 // var c = new Corrente();
 // c.Creditar(100);
